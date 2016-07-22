@@ -1,0 +1,9 @@
+Building Wexcoin
+
+See doc/readme-qt.rst for instructions on building Wexcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Wexcoin.
+
+See doc/build-*.txt for instructions on building Wexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Wexcoin.
