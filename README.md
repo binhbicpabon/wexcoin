@@ -5,15 +5,13 @@ Wexcoin QT Wallet
 
 http://www.wexcoin.org
 
-https://bitcointalk.org/index.php?topic=1129322.0
+https://bitcointalk.org/index.php?topic=1566119.0
 
-Copyright (c) 2015 Wexcoin Developers
+Copyright (c) 2015 The Wexcoin developers
 
-Copyright (c) 2013-2014 NovaCoin Developers
+Copyright (c) 2012-2014 The NovaCoin developers
 
-Copyright (c) 2011-2012 PPCoin Developers
-
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2014 The Bitcoin developers
 
 What is Wexcoin?
 -----------------
